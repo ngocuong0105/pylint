@@ -1,0 +1,15 @@
+[
+    {
+        "type": "refactor",
+        "module": "playground",
+        "obj": "Car",
+        "line": 4,
+        "column": 0,
+        "endLine": 15,
+        "endColumn": 26,
+        "path": "playground.py",
+        "symbol": "too-few-public-methods",
+        "message": "Too few public methods (1/2)",
+        "message-id": "R0903"
+    }
+]
